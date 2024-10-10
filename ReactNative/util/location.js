@@ -1,7 +1,7 @@
 import axios from "axios"
 import Geocoder from 'react-native-geocoding';
 
-const GOOGLE_API_KEY = "AIzaSyBg2p_vbICXSaXAkOiI6Rh4V3yIaWirXdM"
+const GOOGLE_API_KEY = "AddYourKeyHere"
 
 Geocoder.init(GOOGLE_API_KEY); 
 
